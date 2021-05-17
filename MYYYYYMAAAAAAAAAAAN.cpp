@@ -175,7 +175,7 @@ cout << "I'M ACTUALLY VERY WORRIED, PLEASE DON'T HURT JOSEPH AND CRUZ" << endl <
 //question 10
 first = "LORENZO";
 cout << "THIS GUY LITERALLY SENT YOU A PICTURE OF HIS POOP IN A TOILET" << endl;
-while ( t1 != "JEFFREY" ) {
+while ( t1 != "LORENZO" ) {
         getline(cin, t1);
         if ( t1 != first ) { cout << "YOU'RE ACTUALLY DISGUSTING, HOW MANY PEOPLE SEND YOU POOP PHOTOS?\n\n\nPOOP??\n";
     	}
