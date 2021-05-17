@@ -111,6 +111,56 @@ while ( t1 != "GOBLINS" ) {
         if ( t1 != first ) { cout << "NOT GREMLINS BUT .......!!!\n\n\nWHAT ARE ALL CS MAJORS?????\n";
     	}
 }
+	
+
+//question 10
+first = "ORANGE JUICE";
+cout << "JUST LIKE CRUZ SAID: GOTTA USE YOUR GOD GIVEN ..............." << endl;
+while ( t1 != "ORANGE JUICE" ) {
+        getline(cin, t1);
+        if ( t1 != first ) { cout << "NIBBA\n\n\nQWEEEEEB JUICE?\n";
+    	}
+}
+
+cout << "CRUZ IS PROUD OF YOU" << endl << endl;
+	
+	
+//question 10
+first = "STUSSY";
+cout << "YOU AND DYLAN FLAKED PHYSICS TO GO GET WHAT BRAND CREWNECK?" << endl;
+while ( t1 != "STUSSY" ) {
+        getline(cin, t1);
+        if ( t1 != first ) { cout << "DOG DOG DOG\n\n\nNIBBA LOOKING FRESH IN THAT PINK PINK?\n";
+    	}
+}
+
+cout << "DYLAN NIBBAS IS SMILING DOWN ON THE DRIP!" << endl << endl;
+	
+//question 10
+first = "CHICKEN BACON RANCH MELT";
+cout << "THE GREATEST SUBWAY ORDER OF ALL TIME" << endl;
+while ( t1 != "CHICKEN BACON RANCH MELT" ) {
+        getline(cin, t1);
+        if ( t1 != first ) { cout << "NEEEEEEEEBUH\n\n\nSUBWAY!!!\n";
+    	}
+}
+
+cout << "OH DAT'S BUSSIN!" << endl << endl;
+
+
+//question 10
+first = "HAND";
+cout << "WHAT BODY PART OF CRUZ'S DO YOU GET 5 MINUTES ON??" << endl;
+while ( t1 != "HAND" ) {
+        getline(cin, t1);
+        if ( t1 != first ) { cout << "WTF YOU'RE A FREAK, TRY AGAIN JESUS CHRIST\n\n\n 5 MINUTES ON THE ?????\n";
+    	}
+}
+
+cout << "CRUZ IS ACTUALLY NOT SO PROUD OF THIS ONE" << endl << endl;
+	
+
+
 
 cout << "OKAY LAST ONE HOMIE DAWG" << endl << endl;
 	
