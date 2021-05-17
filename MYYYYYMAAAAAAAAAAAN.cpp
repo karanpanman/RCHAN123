@@ -89,6 +89,46 @@ while ( t1 != "PLAY PIANO" ) {
 }
 
 cout << "that's FACTS MY GGGGGGGGGG" << endl << endl;
+	
+
+//question 8
+first = "NUTS";
+cout << "DEEZ WHAT RYAN?" << endl;
+while ( t1 != "NUTS" ) {
+        getline(cin, t1);
+        if ( t1 != first ) { cout << "DAWG CMON!!!\n\n\nWHAT ARE DEEZ?????\n";
+    	}
+}
+
+cout << "FRICK G" << endl << endl;
+	
+	
+//question 9
+first = "GOBLINS";
+cout << "ALL CS MAJORS ARE: " << endl;
+while ( t1 != "GOBLINS" ) {
+        getline(cin, t1);
+        if ( t1 != first ) { cout << "NOT GREMLINS BUT .......!!!\n\n\nWHAT ARE ALL CS MAJORS?????\n";
+    	}
+}
+
+cout << "OKAY LAST ONE HOMIE DAWG" << endl << endl;
+	
+	
+//question 10
+first = "PHYSICS";
+cout << "THE CLASS IN WHICH YOU CARRIED THE LITERAL LIVING CUCK OUT OF ME" << endl;
+while ( t1 != "PHYSICS" ) {
+        getline(cin, t1);
+        if ( t1 != first ) { cout << "YOU KNOW THIS\n\n\nTHE CARRY CLASS!!!!!!!!\n";
+    	}
+}
+
+cout << "CONGRATULTIONS!!! HAPPY BIRTHDAY G! ALTHOUGH YOU'RE GREMLIN MATERIAL, WE CUCKING LOVE YA DAWG" << endl << endl;
+	
+
+	
+
 
 return -1;
 }
